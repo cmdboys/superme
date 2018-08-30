@@ -12,3 +12,4 @@
 
 ## Use
 拷贝 `/dist/bundle.js` 粘贴到github主页控制台
+> copy `/dist/bundle.js` code to console
