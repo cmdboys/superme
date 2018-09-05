@@ -1,10 +1,8 @@
 
 <h1 align="center">
-superme
+Superme
 </h1>
-<h4 align="center">
-😎让你的github变成大佬  
-</h4>
+
 <p align="center">
   <img src="https://i.loli.net/2018/09/05/5b8f38f82f7bb.png" alt="7dd98d1001e939014f5ebca671ec54e737d196cd.png" title="7dd98d1001e939014f5ebca671ec54e737d196cd.png" />
 </p>
@@ -26,7 +24,9 @@ superme
   
 </p>
 
-
+<h4 align="center">
+😎让你的github变成大佬  
+</h4>
 
 
 
